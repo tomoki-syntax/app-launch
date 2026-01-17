@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "text": "tomoki",
+    "completed": true
+  },
+  {
+    "id": 1,
+    "text": "social",
+    "completed": false
+  }
+]
